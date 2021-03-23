@@ -2,6 +2,7 @@
 
 ## Log
 18.03.21 - Aula Demonstrativa - Noções Gerais Do Balanço Patrimonial
+22.03.21 - Aula Demonstrativa - Noções Gerais do Balanço Patrimonial (LISTA DE CONTAS)
 
 ## Edital 2014
 - [ ] 1. Estrutura Conceitual para Elaboração e Divulgação de Relatório Contábil-Financeiro aprovado pelo Conselho Federal de Contabilidade (CFC).
@@ -92,3 +93,46 @@ SINÔNIMOS
 | Capital Aplicado       | Capital Alheio        | Capital Próprio      |
 | Capital Investido      | Recursos de Terceiros | Recursos Próprios    |
 | Aplicações de Recursos |                       | Passivo não exigível |
+
+
+A Lei 6.404/76, alterada pelas leis 11.638/07 e 11.941/09, disciplinou como as contas devem ser agrupadas. 
+A leitura dos artigos 175 ao 205 da Lei n° 6.404/76 é imprescindível
+> 6.404/76: http://www.planalto.gov.br/ccivil_03/LEIS/L6404consol.htm
+
+### Balanço Patrimonial
+
+No ativo as contas serão dispostas em ordem decrescente de grau de liquidez
+
+| Ativo                | Passivo                |
+| -------------------- | ---------------------- |
+| Ativo Circulante     | Passivo circulante     |
+| Ativo não circulante | Passivo não circulante |
+|                      | Patrimônio líquido     |
+
+#### - Ativo
+- **Ativo Circulante**:
+  - **Disponibilidades**: Caixa, Bancos conta Movimento, Aplicações Financeiras de Liquidez Imediata, Depósitos bancários
+  - **Direitos realizáveis no curso do exercício social subsequente**: Duplicatas a Receber, Adiantamento a Fornecedores, Produtos em Elaboração, Estoques
+  - **Aplicações de recursos em despesas do exercício seguinte**: Seguros, Aluguel Pago Antecipadamente, Assinatura de Revistas e Jornais, Adiantamento de Salários
+
+- **Ativo não circulante**:
+  - **Ativo realizável a longo prazo**: 
+    - **Direitos realizáveis após o término do exercício seguinte**: Duplicatas a Receber, Despesas Antecipadas, Seguros a Vencer
+    - **Direitos derivados de vendas, adiantamentos ou empréstimos que não constituírem negócios usuais na exploração do objeto da companhia**: Empréstimos a Coligadas, Empréstimos a Controladas, Adiantamentos a Diretores, Adiantamento a Acionistas
+  - **Investimentos**:
+    - **Participações permanentes em outras sociedades**: Ações de Controladas, Ações de Coligadas
+    - **Direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa**: Obras de Arte, Imóveis para Aluguel, Terrenos não utilizado
+  - **Imobilizado**: os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia - Imóveis, Veículos, Máquinas e Equipamentos, Móveis e Utensílios, Terrenos
+  - **Intangível**: os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia - Fundo de Comércio, Patentes, Direitos de Exploração de minas, jazidas ou florestas, Franquias, Softwares, Direitos Autorais
+
+#### - Passivo
+- **Passivo Circulante**
+Obrigações exigíveis até o término do exercício seguinte - Duplicatas a Pagar, Fornecedores, Empréstimos a Pagar (Curto Prazo), Salários a Pagar, Encargos Sociais a Recolher, Impostos a Recolher, Provisão para Imposto de Renda, Aluguéis a Pagar, Adiantamento de Clientes, Dividendos a Pagar.
+
+- **Passivo não circulante**
+Obrigações exigíveis após o término do exercício seguinte - Duplicatas a Pagar (Longo Prazo), Fornecedores (LP), Empréstimos a Pagar (LP), Debentures a Pagar (LP)
+
+- **Patrimônio líquido**, dividido em capital social, reservas de capital, ajustes de avaliação patrimonial, reservas de lucros, ações em tesouraria e prejuízos acumulados.
+
+
+https://www.estrategiaconcursos.com.br/blog/contabilidade-receita-federal-2/#:~:text=Tamb%C3%A9m%20chamada%20de%20receitas%20a,comiss%C3%B5es%20recebidas%20antecipadamente%20(Passivo).

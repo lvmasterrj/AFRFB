@@ -2,6 +2,7 @@
 
 ## Log
 17.03.21 - Aula Demonstrativa - (Introdução à Lógica de Argumentação) - QUESTÕES COMENTADAS PELO PROFESSOR (11)
+19.03.21 - Lógica de Argumentação - Equivalência Entre Proposições
 
 ## Edital 2014
 
@@ -101,7 +102,7 @@ _só é V quando as proposições têm valores lógicos iguais_
  | F   | V   | F   |
  | F   | F   | V   |
 
-Negação: ou P ou Q / `P &#8891; Q` ou `P <=> ~Q` ou `~P <=> Q`
+Negação: ou P ou Q / P &#8891; Q ou `P <=> ~Q` ou `~P <=> Q`
 
 **- Operador Disjunção Exclusiva (“OU... OU...”)**
 
@@ -136,3 +137,16 @@ Negação: P se e somente se Q / `P <=> Q`
 `P --> Q` = `~Q --> ~P` = `~P ou Q`
 
 `~Q --> ~P` (CONTRAPOSITIVA da proposição condicional.)
+
+
+##### - Equivalência da bicondicional
+
+`P<=>Q` = `(P-->Q)^(Q-->P)`
+
+_Estudo se e somente se trabalho = Se estudo, então trabalho e, se trabalho, então estudo_
+
+##### -  Equivalência da disjunção exclusiva:
+
+`P ⊻ Q` = `P<=>~Q` ou `~P<=>Q`
+
+_Ou estudo ou trabalho = Estudo se e somente se NÃO trabalho = NÃO estudo se e somente se trabalho_
